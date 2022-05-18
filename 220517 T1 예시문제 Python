@@ -2,15 +2,15 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "ffb9849b",
+   "id": "d35a6e55",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "papermill": {
-     "duration": 0.008206,
-     "end_time": "2022-05-17T07:34:59.482521",
+     "duration": 0.009249,
+     "end_time": "2022-05-18T02:15:27.516406",
      "exception": false,
-     "start_time": "2022-05-17T07:34:59.474315",
+     "start_time": "2022-05-18T02:15:27.507157",
      "status": "completed"
     },
     "tags": []
@@ -23,19 +23,19 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "7a4a3590",
+   "id": "a551beba",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-05-17T07:34:59.499184Z",
-     "iopub.status.busy": "2022-05-17T07:34:59.498703Z",
-     "iopub.status.idle": "2022-05-17T07:35:00.531385Z",
-     "shell.execute_reply": "2022-05-17T07:35:00.530568Z"
+     "iopub.execute_input": "2022-05-18T02:15:27.534795Z",
+     "iopub.status.busy": "2022-05-18T02:15:27.534264Z",
+     "iopub.status.idle": "2022-05-18T02:15:28.552176Z",
+     "shell.execute_reply": "2022-05-18T02:15:28.551300Z"
     },
     "papermill": {
-     "duration": 1.044092,
-     "end_time": "2022-05-17T07:35:00.534005",
+     "duration": 1.029486,
+     "end_time": "2022-05-18T02:15:28.554562",
      "exception": false,
-     "start_time": "2022-05-17T07:34:59.489913",
+     "start_time": "2022-05-18T02:15:27.525076",
      "status": "completed"
     },
     "tags": []
@@ -50,19 +50,23 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "8086a3e9",
+   "id": "a984ab7e",
    "metadata": {
+    "collapsed": true,
     "execution": {
-     "iopub.execute_input": "2022-05-17T07:35:00.549844Z",
-     "iopub.status.busy": "2022-05-17T07:35:00.549557Z",
-     "iopub.status.idle": "2022-05-17T07:35:00.604689Z",
-     "shell.execute_reply": "2022-05-17T07:35:00.603862Z"
+     "iopub.execute_input": "2022-05-18T02:15:28.571589Z",
+     "iopub.status.busy": "2022-05-18T02:15:28.571320Z",
+     "iopub.status.idle": "2022-05-18T02:15:28.615766Z",
+     "shell.execute_reply": "2022-05-18T02:15:28.615255Z"
+    },
+    "jupyter": {
+     "outputs_hidden": true
     },
     "papermill": {
-     "duration": 0.066187,
-     "end_time": "2022-05-17T07:35:00.607278",
+     "duration": 0.055633,
+     "end_time": "2022-05-18T02:15:28.618150",
      "exception": false,
-     "start_time": "2022-05-17T07:35:00.541091",
+     "start_time": "2022-05-18T02:15:28.562517",
      "status": "completed"
     },
     "tags": []
@@ -671,19 +675,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "4adb5558",
+   "id": "ae7cdf0d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-05-17T07:35:00.626459Z",
-     "iopub.status.busy": "2022-05-17T07:35:00.626043Z",
-     "iopub.status.idle": "2022-05-17T07:35:00.639716Z",
-     "shell.execute_reply": "2022-05-17T07:35:00.639077Z"
+     "iopub.execute_input": "2022-05-18T02:15:28.638196Z",
+     "iopub.status.busy": "2022-05-18T02:15:28.637811Z",
+     "iopub.status.idle": "2022-05-18T02:15:28.650982Z",
+     "shell.execute_reply": "2022-05-18T02:15:28.650109Z"
     },
     "papermill": {
-     "duration": 0.025972,
-     "end_time": "2022-05-17T07:35:00.642127",
+     "duration": 0.025425,
+     "end_time": "2022-05-18T02:15:28.652976",
      "exception": false,
-     "start_time": "2022-05-17T07:35:00.616155",
+     "start_time": "2022-05-18T02:15:28.627551",
      "status": "completed"
     },
     "tags": []
@@ -705,55 +709,296 @@
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "1df394f5",
+   "cell_type": "markdown",
+   "id": "d56bc453",
    "metadata": {
     "papermill": {
-     "duration": 0.008754,
-     "end_time": "2022-05-17T07:35:00.660091",
+     "duration": 0.009237,
+     "end_time": "2022-05-18T02:15:28.671431",
      "exception": false,
-     "start_time": "2022-05-17T07:35:00.651337",
+     "start_time": "2022-05-18T02:15:28.662194",
      "status": "completed"
     },
     "tags": []
    },
-   "outputs": [],
-   "source": []
+   "source": [
+    "### minmax 정규화 공식으로 푸는 방법"
+   ]
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "028643b3",
+   "execution_count": 4,
+   "id": "b9bbd9ee",
    "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-05-18T02:15:28.690900Z",
+     "iopub.status.busy": "2022-05-18T02:15:28.690629Z",
+     "iopub.status.idle": "2022-05-18T02:15:28.694567Z",
+     "shell.execute_reply": "2022-05-18T02:15:28.693725Z"
+    },
     "papermill": {
-     "duration": 0.008885,
-     "end_time": "2022-05-17T07:35:00.677947",
+     "duration": 0.015641,
+     "end_time": "2022-05-18T02:15:28.696178",
      "exception": false,
-     "start_time": "2022-05-17T07:35:00.669062",
+     "start_time": "2022-05-18T02:15:28.680537",
      "status": "completed"
     },
     "tags": []
    },
    "outputs": [],
-   "source": []
+   "source": [
+    "import pandas as pd"
+   ]
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "19acb824",
+   "execution_count": 5,
+   "id": "03253330",
    "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-05-18T02:15:28.715897Z",
+     "iopub.status.busy": "2022-05-18T02:15:28.715431Z",
+     "iopub.status.idle": "2022-05-18T02:15:28.735043Z",
+     "shell.execute_reply": "2022-05-18T02:15:28.734316Z"
+    },
     "papermill": {
-     "duration": 0.008535,
-     "end_time": "2022-05-17T07:35:00.695373",
+     "duration": 0.031742,
+     "end_time": "2022-05-18T02:15:28.737056",
      "exception": false,
-     "start_time": "2022-05-17T07:35:00.686838",
+     "start_time": "2022-05-18T02:15:28.705314",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>model</th>\n",
+       "      <th>mpg</th>\n",
+       "      <th>cyl</th>\n",
+       "      <th>disp</th>\n",
+       "      <th>hp</th>\n",
+       "      <th>drat</th>\n",
+       "      <th>wt</th>\n",
+       "      <th>qsec</th>\n",
+       "      <th>vs</th>\n",
+       "      <th>am</th>\n",
+       "      <th>gear</th>\n",
+       "      <th>carb</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>Mazda RX4</td>\n",
+       "      <td>21.0</td>\n",
+       "      <td>6</td>\n",
+       "      <td>160.0</td>\n",
+       "      <td>110</td>\n",
+       "      <td>3.90</td>\n",
+       "      <td>2.620</td>\n",
+       "      <td>16.46</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>4</td>\n",
+       "      <td>4</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>Mazda RX4 Wag</td>\n",
+       "      <td>21.0</td>\n",
+       "      <td>6</td>\n",
+       "      <td>160.0</td>\n",
+       "      <td>110</td>\n",
+       "      <td>3.90</td>\n",
+       "      <td>2.875</td>\n",
+       "      <td>17.02</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>4</td>\n",
+       "      <td>4</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>Datsun 710</td>\n",
+       "      <td>22.8</td>\n",
+       "      <td>4</td>\n",
+       "      <td>108.0</td>\n",
+       "      <td>93</td>\n",
+       "      <td>3.85</td>\n",
+       "      <td>2.320</td>\n",
+       "      <td>18.61</td>\n",
+       "      <td>1</td>\n",
+       "      <td>1</td>\n",
+       "      <td>4</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>Hornet 4 Drive</td>\n",
+       "      <td>21.4</td>\n",
+       "      <td>6</td>\n",
+       "      <td>258.0</td>\n",
+       "      <td>110</td>\n",
+       "      <td>3.08</td>\n",
+       "      <td>3.215</td>\n",
+       "      <td>19.44</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>Hornet Sportabout</td>\n",
+       "      <td>18.7</td>\n",
+       "      <td>8</td>\n",
+       "      <td>360.0</td>\n",
+       "      <td>175</td>\n",
+       "      <td>3.15</td>\n",
+       "      <td>3.440</td>\n",
+       "      <td>17.02</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>2</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "               model   mpg  cyl   disp   hp  drat     wt   qsec  vs  am  gear  \\\n",
+       "0          Mazda RX4  21.0    6  160.0  110  3.90  2.620  16.46   0   1     4   \n",
+       "1      Mazda RX4 Wag  21.0    6  160.0  110  3.90  2.875  17.02   0   1     4   \n",
+       "2         Datsun 710  22.8    4  108.0   93  3.85  2.320  18.61   1   1     4   \n",
+       "3     Hornet 4 Drive  21.4    6  258.0  110  3.08  3.215  19.44   1   0     3   \n",
+       "4  Hornet Sportabout  18.7    8  360.0  175  3.15  3.440  17.02   0   0     3   \n",
+       "\n",
+       "   carb  \n",
+       "0     4  \n",
+       "1     4  \n",
+       "2     1  \n",
+       "3     1  \n",
+       "4     2  "
+      ]
+     },
+     "execution_count": 5,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "data = pd.read_csv('../input/mtcars/mtcars.csv')\n",
+    "data.head()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "87b1ea69",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-05-18T02:15:28.760001Z",
+     "iopub.status.busy": "2022-05-18T02:15:28.759057Z",
+     "iopub.status.idle": "2022-05-18T02:15:28.764283Z",
+     "shell.execute_reply": "2022-05-18T02:15:28.763347Z"
+    },
+    "papermill": {
+     "duration": 0.018656,
+     "end_time": "2022-05-18T02:15:28.766649",
+     "exception": false,
+     "start_time": "2022-05-18T02:15:28.747993",
      "status": "completed"
     },
     "tags": []
    },
    "outputs": [],
-   "source": []
+   "source": [
+    "def minmax(data):\n",
+    "    # minmax 정규화 공식\n",
+    "    data = (data - min(data))/(max(data)-min(data))\n",
+    "    return data"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "035e4b01",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-05-18T02:15:28.794763Z",
+     "iopub.status.busy": "2022-05-18T02:15:28.794129Z",
+     "iopub.status.idle": "2022-05-18T02:15:28.799368Z",
+     "shell.execute_reply": "2022-05-18T02:15:28.798487Z"
+    },
+    "papermill": {
+     "duration": 0.020777,
+     "end_time": "2022-05-18T02:15:28.801703",
+     "exception": false,
+     "start_time": "2022-05-18T02:15:28.780926",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "data['qsec'] = minmax(data['qsec'])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "id": "462de03d",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-05-18T02:15:28.826744Z",
+     "iopub.status.busy": "2022-05-18T02:15:28.826017Z",
+     "iopub.status.idle": "2022-05-18T02:15:28.832823Z",
+     "shell.execute_reply": "2022-05-18T02:15:28.831880Z"
+    },
+    "papermill": {
+     "duration": 0.021507,
+     "end_time": "2022-05-18T02:15:28.835121",
+     "exception": false,
+     "start_time": "2022-05-18T02:15:28.813614",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "9\n",
+      "9\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(sum(data['qsec']>0.5))\n",
+    "print(len(data[data['qsec']>0.5]))"
+   ]
   }
  ],
  "metadata": {
@@ -776,14 +1021,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 11.432939,
-   "end_time": "2022-05-17T07:35:01.323571",
+   "duration": 10.208323,
+   "end_time": "2022-05-18T02:15:29.465565",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2022-05-17T07:34:49.890632",
+   "start_time": "2022-05-18T02:15:19.257242",
    "version": "2.3.4"
   }
  },
