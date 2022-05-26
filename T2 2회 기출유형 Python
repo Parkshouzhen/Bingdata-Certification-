@@ -7,13 +7,13 @@
     }
    },
    "cell_type": "markdown",
-   "id": "58569d8b",
+   "id": "c00d9804",
    "metadata": {
     "papermill": {
-     "duration": 0.01866,
-     "end_time": "2022-05-25T05:59:36.786034",
+     "duration": 0.020203,
+     "end_time": "2022-05-26T05:28:56.059100",
      "exception": false,
-     "start_time": "2022-05-25T05:59:36.767374",
+     "start_time": "2022-05-26T05:28:56.038897",
      "status": "completed"
     },
     "tags": []
@@ -35,13 +35,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "3ef19621",
+   "id": "f3ccaf8c",
    "metadata": {
     "papermill": {
-     "duration": 0.01707,
-     "end_time": "2022-05-25T05:59:36.821415",
+     "duration": 0.018432,
+     "end_time": "2022-05-26T05:28:56.098331",
      "exception": false,
-     "start_time": "2022-05-25T05:59:36.804345",
+     "start_time": "2022-05-26T05:28:56.079899",
      "status": "completed"
     },
     "tags": []
@@ -69,20 +69,20 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "b5e094c7",
+   "id": "d7a205ff",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-05-25T05:59:36.862519Z",
-     "iopub.status.busy": "2022-05-25T05:59:36.860664Z",
-     "iopub.status.idle": "2022-05-25T05:59:37.894839Z",
-     "shell.execute_reply": "2022-05-25T05:59:37.895437Z",
-     "shell.execute_reply.started": "2022-05-25T05:44:33.600974Z"
+     "iopub.execute_input": "2022-05-26T05:28:56.148869Z",
+     "iopub.status.busy": "2022-05-26T05:28:56.143026Z",
+     "iopub.status.idle": "2022-05-26T05:28:57.082148Z",
+     "shell.execute_reply": "2022-05-26T05:28:57.082609Z",
+     "shell.execute_reply.started": "2022-05-26T05:25:22.767165Z"
     },
     "papermill": {
-     "duration": 1.056943,
-     "end_time": "2022-05-25T05:59:37.895714",
+     "duration": 0.965687,
+     "end_time": "2022-05-26T05:28:57.082878",
      "exception": false,
-     "start_time": "2022-05-25T05:59:36.838771",
+     "start_time": "2022-05-26T05:28:56.117191",
      "status": "completed"
     },
     "tags": []
@@ -133,13 +133,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "53a18aba",
+   "id": "e00e3d1e",
    "metadata": {
     "papermill": {
-     "duration": 0.017451,
-     "end_time": "2022-05-25T05:59:37.931349",
+     "duration": 0.018883,
+     "end_time": "2022-05-26T05:28:57.121319",
      "exception": false,
-     "start_time": "2022-05-25T05:59:37.913898",
+     "start_time": "2022-05-26T05:28:57.102436",
      "status": "completed"
     },
     "tags": []
@@ -151,20 +151,20 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "ba5389e2",
+   "id": "2e6ef1c2",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-05-25T05:59:37.969835Z",
-     "iopub.status.busy": "2022-05-25T05:59:37.969198Z",
-     "iopub.status.idle": "2022-05-25T05:59:37.973845Z",
-     "shell.execute_reply": "2022-05-25T05:59:37.974445Z",
-     "shell.execute_reply.started": "2022-05-25T05:44:34.197901Z"
+     "iopub.execute_input": "2022-05-26T05:28:57.165361Z",
+     "iopub.status.busy": "2022-05-26T05:28:57.164541Z",
+     "iopub.status.idle": "2022-05-26T05:28:57.167495Z",
+     "shell.execute_reply": "2022-05-26T05:28:57.167971Z",
+     "shell.execute_reply.started": "2022-05-26T05:25:23.849366Z"
     },
     "papermill": {
-     "duration": 0.025544,
-     "end_time": "2022-05-25T05:59:37.974608",
+     "duration": 0.02773,
+     "end_time": "2022-05-26T05:28:57.168195",
      "exception": false,
-     "start_time": "2022-05-25T05:59:37.949064",
+     "start_time": "2022-05-26T05:28:57.140465",
      "status": "completed"
     },
     "tags": []
@@ -189,20 +189,20 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "4863dd2e",
+   "id": "6ea107bf",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-05-25T05:59:38.018691Z",
-     "iopub.status.busy": "2022-05-25T05:59:38.018045Z",
-     "iopub.status.idle": "2022-05-25T05:59:38.037306Z",
-     "shell.execute_reply": "2022-05-25T05:59:38.036651Z",
-     "shell.execute_reply.started": "2022-05-25T05:44:34.442280Z"
+     "iopub.execute_input": "2022-05-26T05:28:57.212223Z",
+     "iopub.status.busy": "2022-05-26T05:28:57.211580Z",
+     "iopub.status.idle": "2022-05-26T05:28:57.226005Z",
+     "shell.execute_reply": "2022-05-26T05:28:57.225487Z",
+     "shell.execute_reply.started": "2022-05-26T05:25:23.857130Z"
     },
     "papermill": {
-     "duration": 0.044867,
-     "end_time": "2022-05-25T05:59:38.037458",
+     "duration": 0.038607,
+     "end_time": "2022-05-26T05:28:57.226170",
      "exception": false,
-     "start_time": "2022-05-25T05:59:37.992591",
+     "start_time": "2022-05-26T05:28:57.187563",
      "status": "completed"
     },
     "tags": []
@@ -313,93 +313,8 @@
        "      <td>10</td>\n",
        "      <td>4707</td>\n",
        "    </tr>\n",
-       "    <tr>\n",
-       "      <th>...</th>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>3934</th>\n",
-       "      <td>3935</td>\n",
-       "      <td>C</td>\n",
-       "      <td>Ship</td>\n",
-       "      <td>6</td>\n",
-       "      <td>5</td>\n",
-       "      <td>178</td>\n",
-       "      <td>3</td>\n",
-       "      <td>low</td>\n",
-       "      <td>F</td>\n",
-       "      <td>5</td>\n",
-       "      <td>4096</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>2669</th>\n",
-       "      <td>2670</td>\n",
-       "      <td>F</td>\n",
-       "      <td>Ship</td>\n",
-       "      <td>3</td>\n",
-       "      <td>1</td>\n",
-       "      <td>206</td>\n",
-       "      <td>2</td>\n",
-       "      <td>medium</td>\n",
-       "      <td>F</td>\n",
-       "      <td>56</td>\n",
-       "      <td>2069</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>1152</th>\n",
-       "      <td>1153</td>\n",
-       "      <td>D</td>\n",
-       "      <td>Ship</td>\n",
-       "      <td>4</td>\n",
-       "      <td>1</td>\n",
-       "      <td>135</td>\n",
-       "      <td>10</td>\n",
-       "      <td>medium</td>\n",
-       "      <td>M</td>\n",
-       "      <td>35</td>\n",
-       "      <td>1989</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>6201</th>\n",
-       "      <td>6202</td>\n",
-       "      <td>B</td>\n",
-       "      <td>Ship</td>\n",
-       "      <td>4</td>\n",
-       "      <td>4</td>\n",
-       "      <td>251</td>\n",
-       "      <td>2</td>\n",
-       "      <td>medium</td>\n",
-       "      <td>F</td>\n",
-       "      <td>6</td>\n",
-       "      <td>4376</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>9332</th>\n",
-       "      <td>9333</td>\n",
-       "      <td>A</td>\n",
-       "      <td>Flight</td>\n",
-       "      <td>6</td>\n",
-       "      <td>4</td>\n",
-       "      <td>144</td>\n",
-       "      <td>4</td>\n",
-       "      <td>low</td>\n",
-       "      <td>F</td>\n",
-       "      <td>5</td>\n",
-       "      <td>4631</td>\n",
-       "    </tr>\n",
        "  </tbody>\n",
        "</table>\n",
-       "<p>8799 rows × 11 columns</p>\n",
        "</div>"
       ],
       "text/plain": [
@@ -409,12 +324,6 @@
        "2649  2650               B             Ship                    2   \n",
        "4843  4844               F             Ship                    6   \n",
        "9601  9602               F           Flight                    3   \n",
-       "...    ...             ...              ...                  ...   \n",
-       "3934  3935               C             Ship                    6   \n",
-       "2669  2670               F             Ship                    3   \n",
-       "1152  1153               D             Ship                    4   \n",
-       "6201  6202               B             Ship                    4   \n",
-       "9332  9333               A           Flight                    6   \n",
        "\n",
        "      Customer_rating  Cost_of_the_Product  Prior_purchases  \\\n",
        "3999                4                  134                3   \n",
@@ -422,27 +331,13 @@
        "2649                1                  192                3   \n",
        "4843                5                  284                4   \n",
        "9601                1                  246                3   \n",
-       "...               ...                  ...              ...   \n",
-       "3934                5                  178                3   \n",
-       "2669                1                  206                2   \n",
-       "1152                1                  135               10   \n",
-       "6201                4                  251                2   \n",
-       "9332                4                  144                4   \n",
        "\n",
        "     Product_importance Gender  Discount_offered  Weight_in_gms  \n",
        "3999               high      F                 6           5680  \n",
        "9559             medium      M                 5           5331  \n",
        "2649               high      M                46           3206  \n",
        "4843             medium      M                 8           5346  \n",
-       "9601                low      F                10           4707  \n",
-       "...                 ...    ...               ...            ...  \n",
-       "3934                low      F                 5           4096  \n",
-       "2669             medium      F                56           2069  \n",
-       "1152             medium      M                35           1989  \n",
-       "6201             medium      F                 6           4376  \n",
-       "9332                low      F                 5           4631  \n",
-       "\n",
-       "[8799 rows x 11 columns]"
+       "9601                low      F                10           4707  "
       ]
      },
      "execution_count": 3,
@@ -451,26 +346,26 @@
     }
    ],
    "source": [
-    "X_train"
+    "X_train.head()"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "03c09673",
+   "id": "45f7607b",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-05-25T05:59:38.079262Z",
-     "iopub.status.busy": "2022-05-25T05:59:38.078496Z",
-     "iopub.status.idle": "2022-05-25T05:59:38.091923Z",
-     "shell.execute_reply": "2022-05-25T05:59:38.091392Z",
-     "shell.execute_reply.started": "2022-05-25T05:44:34.591408Z"
+     "iopub.execute_input": "2022-05-26T05:28:57.274991Z",
+     "iopub.status.busy": "2022-05-26T05:28:57.274333Z",
+     "iopub.status.idle": "2022-05-26T05:28:57.281860Z",
+     "shell.execute_reply": "2022-05-26T05:28:57.281108Z",
+     "shell.execute_reply.started": "2022-05-26T05:25:23.885693Z"
     },
     "papermill": {
-     "duration": 0.035517,
-     "end_time": "2022-05-25T05:59:38.092088",
+     "duration": 0.035888,
+     "end_time": "2022-05-26T05:28:57.282045",
      "exception": false,
-     "start_time": "2022-05-25T05:59:38.056571",
+     "start_time": "2022-05-26T05:28:57.246157",
      "status": "completed"
     },
     "tags": []
@@ -499,20 +394,20 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "408a84aa",
+   "id": "d1d32b52",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-05-25T05:59:38.135416Z",
-     "iopub.status.busy": "2022-05-25T05:59:38.134706Z",
-     "iopub.status.idle": "2022-05-25T05:59:38.167882Z",
-     "shell.execute_reply": "2022-05-25T05:59:38.168443Z",
-     "shell.execute_reply.started": "2022-05-25T05:44:34.857684Z"
+     "iopub.execute_input": "2022-05-26T05:28:57.328152Z",
+     "iopub.status.busy": "2022-05-26T05:28:57.327456Z",
+     "iopub.status.idle": "2022-05-26T05:28:57.373479Z",
+     "shell.execute_reply": "2022-05-26T05:28:57.374040Z",
+     "shell.execute_reply.started": "2022-05-26T05:25:23.900747Z"
     },
     "papermill": {
-     "duration": 0.056122,
-     "end_time": "2022-05-25T05:59:38.168646",
+     "duration": 0.069874,
+     "end_time": "2022-05-26T05:28:57.374231",
      "exception": false,
-     "start_time": "2022-05-25T05:59:38.112524",
+     "start_time": "2022-05-26T05:28:57.304357",
      "status": "completed"
     },
     "tags": []
@@ -521,19 +416,29 @@
    "source": [
     "# Product_importance는 중요도에 따라 다른값으로 변환\n",
     "X_train['Product_importance'] =X_train['Product_importance'].replace({'high':3, 'medium':2, 'low':1})\n",
+    "X_test['Product_importance'] =X_test['Product_importance'].replace({'high':3, 'medium':2, 'low':1})\n",
     "\n",
     "# Mode_of_Shipment 원핫인코딩 후 train 에 추가\n",
     "importace_dummy= pd.get_dummies(X_train['Mode_of_Shipment'])\n",
     "X_train = pd.concat([X_train, importace_dummy], axis=1)\n",
     "X_train.drop('Mode_of_Shipment', axis = 1 ,inplace=True)\n",
     "\n",
+    "importace_dummy= pd.get_dummies(X_test['Mode_of_Shipment'])\n",
+    "X_test = pd.concat([X_test, importace_dummy], axis=1)\n",
+    "X_test.drop('Mode_of_Shipment', axis = 1 ,inplace=True)\n",
+    "\n",
     "# Gender 0 ,1 로 나눔 (남자0, 여자1)\n",
     "X_train['Gender'] = X_train['Gender'].replace({'F':1, 'M':0})\n",
+    "X_test['Gender'] = X_test['Gender'].replace({'F':1, 'M':0})\n",
     "\n",
     "# Warehouse_block 원핫인코딩 후 train 에 추가\n",
     "warehouse_dummy= pd.get_dummies(X_train['Warehouse_block'])\n",
     "X_train = pd.concat([X_train, warehouse_dummy], axis=1)\n",
     "X_train.drop('Warehouse_block', axis = 1 ,inplace=True)\n",
+    "\n",
+    "warehouse_dummy= pd.get_dummies(X_test['Warehouse_block'])\n",
+    "X_test = pd.concat([X_test, warehouse_dummy], axis=1)\n",
+    "X_test.drop('Warehouse_block', axis = 1 ,inplace=True)\n",
     "\n",
     "# ID는 고유한 값, 필요없으므로 삭제\n",
     "#X_train = X_train.drop('ID', axis=1)"
@@ -542,20 +447,56 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "62898cbc",
+   "id": "3263c1c4",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-05-25T05:59:38.210770Z",
-     "iopub.status.busy": "2022-05-25T05:59:38.210146Z",
-     "iopub.status.idle": "2022-05-25T05:59:38.226568Z",
-     "shell.execute_reply": "2022-05-25T05:59:38.225929Z",
-     "shell.execute_reply.started": "2022-05-25T05:44:35.196165Z"
+     "iopub.execute_input": "2022-05-26T05:28:57.417954Z",
+     "iopub.status.busy": "2022-05-26T05:28:57.417329Z",
+     "iopub.status.idle": "2022-05-26T05:28:57.422563Z",
+     "shell.execute_reply": "2022-05-26T05:28:57.423222Z",
+     "shell.execute_reply.started": "2022-05-26T05:25:23.953237Z"
     },
     "papermill": {
-     "duration": 0.039025,
-     "end_time": "2022-05-25T05:59:38.226710",
+     "duration": 0.028939,
+     "end_time": "2022-05-26T05:28:57.423453",
      "exception": false,
-     "start_time": "2022-05-25T05:59:38.187685",
+     "start_time": "2022-05-26T05:28:57.394514",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "(8799, 17)\n",
+      "(2200, 17)\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(X_train.shape)\n",
+    "print(X_test.shape)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "9a310240",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-05-26T05:28:57.471064Z",
+     "iopub.status.busy": "2022-05-26T05:28:57.470457Z",
+     "iopub.status.idle": "2022-05-26T05:28:57.483193Z",
+     "shell.execute_reply": "2022-05-26T05:28:57.483760Z",
+     "shell.execute_reply.started": "2022-05-26T05:25:23.960357Z"
+    },
+    "papermill": {
+     "duration": 0.038948,
+     "end_time": "2022-05-26T05:28:57.483931",
+     "exception": false,
+     "start_time": "2022-05-26T05:28:57.444983",
      "status": "completed"
     },
     "tags": []
@@ -748,7 +689,7 @@
        "9601                    1  "
       ]
      },
-     "execution_count": 6,
+     "execution_count": 7,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -761,21 +702,21 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 7,
-   "id": "18e5fcf4",
+   "execution_count": 8,
+   "id": "83fbbd04",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-05-25T05:59:38.270916Z",
-     "iopub.status.busy": "2022-05-25T05:59:38.270193Z",
-     "iopub.status.idle": "2022-05-25T05:59:38.318437Z",
-     "shell.execute_reply": "2022-05-25T05:59:38.319033Z",
-     "shell.execute_reply.started": "2022-05-25T05:44:35.500707Z"
+     "iopub.execute_input": "2022-05-26T05:28:57.529743Z",
+     "iopub.status.busy": "2022-05-26T05:28:57.529133Z",
+     "iopub.status.idle": "2022-05-26T05:28:57.572608Z",
+     "shell.execute_reply": "2022-05-26T05:28:57.573095Z",
+     "shell.execute_reply.started": "2022-05-26T05:25:23.984817Z"
     },
     "papermill": {
-     "duration": 0.072704,
-     "end_time": "2022-05-25T05:59:38.319225",
+     "duration": 0.067817,
+     "end_time": "2022-05-26T05:28:57.573280",
      "exception": false,
-     "start_time": "2022-05-25T05:59:38.246521",
+     "start_time": "2022-05-26T05:28:57.505463",
      "status": "completed"
     },
     "tags": []
@@ -1353,7 +1294,7 @@
        "Reached.on.Time_Y.N -0.000583  0.005841 -0.422089             1.000000  "
       ]
      },
-     "execution_count": 7,
+     "execution_count": 8,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1366,21 +1307,21 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 8,
-   "id": "2008abba",
+   "execution_count": 9,
+   "id": "3a82be2f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-05-25T05:59:38.365146Z",
-     "iopub.status.busy": "2022-05-25T05:59:38.364185Z",
-     "iopub.status.idle": "2022-05-25T05:59:38.380061Z",
-     "shell.execute_reply": "2022-05-25T05:59:38.379454Z",
-     "shell.execute_reply.started": "2022-05-25T05:44:35.594305Z"
+     "iopub.execute_input": "2022-05-26T05:28:57.621429Z",
+     "iopub.status.busy": "2022-05-26T05:28:57.620769Z",
+     "iopub.status.idle": "2022-05-26T05:28:57.627650Z",
+     "shell.execute_reply": "2022-05-26T05:28:57.628226Z",
+     "shell.execute_reply.started": "2022-05-26T05:25:24.034254Z"
     },
     "papermill": {
-     "duration": 0.039926,
-     "end_time": "2022-05-25T05:59:38.380205",
+     "duration": 0.032653,
+     "end_time": "2022-05-26T05:28:57.628388",
      "exception": false,
-     "start_time": "2022-05-25T05:59:38.340279",
+     "start_time": "2022-05-26T05:28:57.595735",
      "status": "completed"
     },
     "tags": []
@@ -1393,491 +1334,112 @@
     "# Mode_of_Shipment 뚜렷한 상관관계 없어보임 (Flight, Road, Ship) => 삭제\n",
     "# Gender 뚜렷한 상관관계 없어보임 => 삭제\n",
     "\n",
-    "X_train.drop(columns='A', inplace=True, axis=1)\n",
-    "X_train.drop(columns='B', inplace=True, axis=1)\n",
-    "X_train.drop(columns='C', inplace=True, axis=1)\n",
-    "X_train.drop(columns='D', inplace=True, axis=1)\n",
-    "X_train.drop(columns='F', inplace=True, axis=1)\n",
-    "X_train.drop(columns='Flight', inplace=True, axis=1)\n",
-    "X_train.drop(columns='Road', inplace=True, axis=1)\n",
-    "X_train.drop(columns='Ship', inplace=True, axis=1)      \n",
-    "X_train.drop(columns='Gender', inplace=True, axis=1)     "
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 9,
-   "id": "916ce00c",
-   "metadata": {
-    "execution": {
-     "iopub.execute_input": "2022-05-25T05:59:38.435690Z",
-     "iopub.status.busy": "2022-05-25T05:59:38.425060Z",
-     "iopub.status.idle": "2022-05-25T05:59:38.439608Z",
-     "shell.execute_reply": "2022-05-25T05:59:38.438999Z",
-     "shell.execute_reply.started": "2022-05-25T05:44:35.645857Z"
-    },
-    "papermill": {
-     "duration": 0.038562,
-     "end_time": "2022-05-25T05:59:38.439746",
-     "exception": false,
-     "start_time": "2022-05-25T05:59:38.401184",
-     "status": "completed"
-    },
-    "tags": []
-   },
-   "outputs": [
-    {
-     "data": {
-      "text/html": [
-       "<div>\n",
-       "<style scoped>\n",
-       "    .dataframe tbody tr th:only-of-type {\n",
-       "        vertical-align: middle;\n",
-       "    }\n",
-       "\n",
-       "    .dataframe tbody tr th {\n",
-       "        vertical-align: top;\n",
-       "    }\n",
-       "\n",
-       "    .dataframe thead th {\n",
-       "        text-align: right;\n",
-       "    }\n",
-       "</style>\n",
-       "<table border=\"1\" class=\"dataframe\">\n",
-       "  <thead>\n",
-       "    <tr style=\"text-align: right;\">\n",
-       "      <th></th>\n",
-       "      <th>ID</th>\n",
-       "      <th>Customer_care_calls</th>\n",
-       "      <th>Customer_rating</th>\n",
-       "      <th>Cost_of_the_Product</th>\n",
-       "      <th>Prior_purchases</th>\n",
-       "      <th>Product_importance</th>\n",
-       "      <th>Discount_offered</th>\n",
-       "      <th>Weight_in_gms</th>\n",
-       "    </tr>\n",
-       "  </thead>\n",
-       "  <tbody>\n",
-       "    <tr>\n",
-       "      <th>3999</th>\n",
-       "      <td>4000</td>\n",
-       "      <td>3</td>\n",
-       "      <td>4</td>\n",
-       "      <td>134</td>\n",
-       "      <td>3</td>\n",
-       "      <td>3</td>\n",
-       "      <td>6</td>\n",
-       "      <td>5680</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>9559</th>\n",
-       "      <td>9560</td>\n",
-       "      <td>4</td>\n",
-       "      <td>3</td>\n",
-       "      <td>173</td>\n",
-       "      <td>3</td>\n",
-       "      <td>2</td>\n",
-       "      <td>5</td>\n",
-       "      <td>5331</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>2649</th>\n",
-       "      <td>2650</td>\n",
-       "      <td>2</td>\n",
-       "      <td>1</td>\n",
-       "      <td>192</td>\n",
-       "      <td>3</td>\n",
-       "      <td>3</td>\n",
-       "      <td>46</td>\n",
-       "      <td>3206</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>4843</th>\n",
-       "      <td>4844</td>\n",
-       "      <td>6</td>\n",
-       "      <td>5</td>\n",
-       "      <td>284</td>\n",
-       "      <td>4</td>\n",
-       "      <td>2</td>\n",
-       "      <td>8</td>\n",
-       "      <td>5346</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>9601</th>\n",
-       "      <td>9602</td>\n",
-       "      <td>3</td>\n",
-       "      <td>1</td>\n",
-       "      <td>246</td>\n",
-       "      <td>3</td>\n",
-       "      <td>1</td>\n",
-       "      <td>10</td>\n",
-       "      <td>4707</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>...</th>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>3934</th>\n",
-       "      <td>3935</td>\n",
-       "      <td>6</td>\n",
-       "      <td>5</td>\n",
-       "      <td>178</td>\n",
-       "      <td>3</td>\n",
-       "      <td>1</td>\n",
-       "      <td>5</td>\n",
-       "      <td>4096</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>2669</th>\n",
-       "      <td>2670</td>\n",
-       "      <td>3</td>\n",
-       "      <td>1</td>\n",
-       "      <td>206</td>\n",
-       "      <td>2</td>\n",
-       "      <td>2</td>\n",
-       "      <td>56</td>\n",
-       "      <td>2069</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>1152</th>\n",
-       "      <td>1153</td>\n",
-       "      <td>4</td>\n",
-       "      <td>1</td>\n",
-       "      <td>135</td>\n",
-       "      <td>10</td>\n",
-       "      <td>2</td>\n",
-       "      <td>35</td>\n",
-       "      <td>1989</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>6201</th>\n",
-       "      <td>6202</td>\n",
-       "      <td>4</td>\n",
-       "      <td>4</td>\n",
-       "      <td>251</td>\n",
-       "      <td>2</td>\n",
-       "      <td>2</td>\n",
-       "      <td>6</td>\n",
-       "      <td>4376</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>9332</th>\n",
-       "      <td>9333</td>\n",
-       "      <td>6</td>\n",
-       "      <td>4</td>\n",
-       "      <td>144</td>\n",
-       "      <td>4</td>\n",
-       "      <td>1</td>\n",
-       "      <td>5</td>\n",
-       "      <td>4631</td>\n",
-       "    </tr>\n",
-       "  </tbody>\n",
-       "</table>\n",
-       "<p>8799 rows × 8 columns</p>\n",
-       "</div>"
-      ],
-      "text/plain": [
-       "        ID  Customer_care_calls  Customer_rating  Cost_of_the_Product  \\\n",
-       "3999  4000                    3                4                  134   \n",
-       "9559  9560                    4                3                  173   \n",
-       "2649  2650                    2                1                  192   \n",
-       "4843  4844                    6                5                  284   \n",
-       "9601  9602                    3                1                  246   \n",
-       "...    ...                  ...              ...                  ...   \n",
-       "3934  3935                    6                5                  178   \n",
-       "2669  2670                    3                1                  206   \n",
-       "1152  1153                    4                1                  135   \n",
-       "6201  6202                    4                4                  251   \n",
-       "9332  9333                    6                4                  144   \n",
-       "\n",
-       "      Prior_purchases  Product_importance  Discount_offered  Weight_in_gms  \n",
-       "3999                3                   3                 6           5680  \n",
-       "9559                3                   2                 5           5331  \n",
-       "2649                3                   3                46           3206  \n",
-       "4843                4                   2                 8           5346  \n",
-       "9601                3                   1                10           4707  \n",
-       "...               ...                 ...               ...            ...  \n",
-       "3934                3                   1                 5           4096  \n",
-       "2669                2                   2                56           2069  \n",
-       "1152               10                   2                35           1989  \n",
-       "6201                2                   2                 6           4376  \n",
-       "9332                4                   1                 5           4631  \n",
-       "\n",
-       "[8799 rows x 8 columns]"
-      ]
-     },
-     "execution_count": 9,
-     "metadata": {},
-     "output_type": "execute_result"
-    }
-   ],
-   "source": [
-    "X_train"
+    "X_train.drop(['A','B','C','D','F'], axis=1, inplace=True)\n",
+    "X_train.drop(['Flight','Road','Ship'], axis=1, inplace=True)\n",
+    "X_train.drop('Gender', axis=1, inplace=True)"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "6df9b932",
+   "id": "38f071e1",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-05-25T05:59:38.490705Z",
-     "iopub.status.busy": "2022-05-25T05:59:38.490020Z",
-     "iopub.status.idle": "2022-05-25T05:59:38.505341Z",
-     "shell.execute_reply": "2022-05-25T05:59:38.505890Z",
-     "shell.execute_reply.started": "2022-05-25T05:44:35.698109Z"
+     "iopub.execute_input": "2022-05-26T05:28:57.679998Z",
+     "iopub.status.busy": "2022-05-26T05:28:57.679298Z",
+     "iopub.status.idle": "2022-05-26T05:28:57.683090Z",
+     "shell.execute_reply": "2022-05-26T05:28:57.683607Z",
+     "shell.execute_reply.started": "2022-05-26T05:25:24.047130Z"
     },
     "papermill": {
-     "duration": 0.043944,
-     "end_time": "2022-05-25T05:59:38.506089",
+     "duration": 0.032966,
+     "end_time": "2022-05-26T05:28:57.683806",
      "exception": false,
-     "start_time": "2022-05-25T05:59:38.462145",
+     "start_time": "2022-05-26T05:28:57.650840",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "# X_test도 똑같이 컬럼 삭제\n",
+    "X_test.drop(['A','B','C','D','F'], axis=1, inplace=True)\n",
+    "X_test.drop(['Flight','Road','Ship'], axis=1, inplace=True)\n",
+    "X_test.drop('Gender', axis=1, inplace=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "id": "93cfbcbc",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-05-26T05:28:57.733273Z",
+     "iopub.status.busy": "2022-05-26T05:28:57.732590Z",
+     "iopub.status.idle": "2022-05-26T05:28:57.737894Z",
+     "shell.execute_reply": "2022-05-26T05:28:57.737342Z",
+     "shell.execute_reply.started": "2022-05-26T05:25:24.062134Z"
+    },
+    "papermill": {
+     "duration": 0.030819,
+     "end_time": "2022-05-26T05:28:57.738029",
+     "exception": false,
+     "start_time": "2022-05-26T05:28:57.707210",
      "status": "completed"
     },
     "tags": []
    },
    "outputs": [
     {
-     "data": {
-      "text/html": [
-       "<div>\n",
-       "<style scoped>\n",
-       "    .dataframe tbody tr th:only-of-type {\n",
-       "        vertical-align: middle;\n",
-       "    }\n",
-       "\n",
-       "    .dataframe tbody tr th {\n",
-       "        vertical-align: top;\n",
-       "    }\n",
-       "\n",
-       "    .dataframe thead th {\n",
-       "        text-align: right;\n",
-       "    }\n",
-       "</style>\n",
-       "<table border=\"1\" class=\"dataframe\">\n",
-       "  <thead>\n",
-       "    <tr style=\"text-align: right;\">\n",
-       "      <th></th>\n",
-       "      <th>ID</th>\n",
-       "      <th>Customer_care_calls</th>\n",
-       "      <th>Customer_rating</th>\n",
-       "      <th>Cost_of_the_Product</th>\n",
-       "      <th>Prior_purchases</th>\n",
-       "      <th>Product_importance</th>\n",
-       "      <th>Discount_offered</th>\n",
-       "      <th>Weight_in_gms</th>\n",
-       "    </tr>\n",
-       "  </thead>\n",
-       "  <tbody>\n",
-       "    <tr>\n",
-       "      <th>4732</th>\n",
-       "      <td>4733</td>\n",
-       "      <td>5</td>\n",
-       "      <td>5</td>\n",
-       "      <td>250</td>\n",
-       "      <td>2</td>\n",
-       "      <td>2</td>\n",
-       "      <td>10</td>\n",
-       "      <td>5475</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>2039</th>\n",
-       "      <td>2040</td>\n",
-       "      <td>5</td>\n",
-       "      <td>2</td>\n",
-       "      <td>202</td>\n",
-       "      <td>3</td>\n",
-       "      <td>2</td>\n",
-       "      <td>34</td>\n",
-       "      <td>3885</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>5113</th>\n",
-       "      <td>5114</td>\n",
-       "      <td>5</td>\n",
-       "      <td>4</td>\n",
-       "      <td>154</td>\n",
-       "      <td>2</td>\n",
-       "      <td>1</td>\n",
-       "      <td>5</td>\n",
-       "      <td>5528</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>2360</th>\n",
-       "      <td>2361</td>\n",
-       "      <td>6</td>\n",
-       "      <td>4</td>\n",
-       "      <td>209</td>\n",
-       "      <td>5</td>\n",
-       "      <td>1</td>\n",
-       "      <td>53</td>\n",
-       "      <td>3169</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>5995</th>\n",
-       "      <td>5996</td>\n",
-       "      <td>6</td>\n",
-       "      <td>1</td>\n",
-       "      <td>250</td>\n",
-       "      <td>4</td>\n",
-       "      <td>1</td>\n",
-       "      <td>4</td>\n",
-       "      <td>1018</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>...</th>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>359</th>\n",
-       "      <td>360</td>\n",
-       "      <td>4</td>\n",
-       "      <td>3</td>\n",
-       "      <td>131</td>\n",
-       "      <td>5</td>\n",
-       "      <td>1</td>\n",
-       "      <td>6</td>\n",
-       "      <td>1659</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>7831</th>\n",
-       "      <td>7832</td>\n",
-       "      <td>2</td>\n",
-       "      <td>1</td>\n",
-       "      <td>166</td>\n",
-       "      <td>3</td>\n",
-       "      <td>2</td>\n",
-       "      <td>7</td>\n",
-       "      <td>5990</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>9753</th>\n",
-       "      <td>9754</td>\n",
-       "      <td>3</td>\n",
-       "      <td>5</td>\n",
-       "      <td>202</td>\n",
-       "      <td>2</td>\n",
-       "      <td>2</td>\n",
-       "      <td>8</td>\n",
-       "      <td>4552</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>3750</th>\n",
-       "      <td>3751</td>\n",
-       "      <td>3</td>\n",
-       "      <td>5</td>\n",
-       "      <td>224</td>\n",
-       "      <td>2</td>\n",
-       "      <td>1</td>\n",
-       "      <td>10</td>\n",
-       "      <td>4445</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>4413</th>\n",
-       "      <td>4414</td>\n",
-       "      <td>3</td>\n",
-       "      <td>2</td>\n",
-       "      <td>224</td>\n",
-       "      <td>2</td>\n",
-       "      <td>2</td>\n",
-       "      <td>3</td>\n",
-       "      <td>4405</td>\n",
-       "    </tr>\n",
-       "  </tbody>\n",
-       "</table>\n",
-       "<p>2200 rows × 8 columns</p>\n",
-       "</div>"
-      ],
-      "text/plain": [
-       "        ID  Customer_care_calls  Customer_rating  Cost_of_the_Product  \\\n",
-       "4732  4733                    5                5                  250   \n",
-       "2039  2040                    5                2                  202   \n",
-       "5113  5114                    5                4                  154   \n",
-       "2360  2361                    6                4                  209   \n",
-       "5995  5996                    6                1                  250   \n",
-       "...    ...                  ...              ...                  ...   \n",
-       "359    360                    4                3                  131   \n",
-       "7831  7832                    2                1                  166   \n",
-       "9753  9754                    3                5                  202   \n",
-       "3750  3751                    3                5                  224   \n",
-       "4413  4414                    3                2                  224   \n",
-       "\n",
-       "      Prior_purchases  Product_importance  Discount_offered  Weight_in_gms  \n",
-       "4732                2                   2                10           5475  \n",
-       "2039                3                   2                34           3885  \n",
-       "5113                2                   1                 5           5528  \n",
-       "2360                5                   1                53           3169  \n",
-       "5995                4                   1                 4           1018  \n",
-       "...               ...                 ...               ...            ...  \n",
-       "359                 5                   1                 6           1659  \n",
-       "7831                3                   2                 7           5990  \n",
-       "9753                2                   2                 8           4552  \n",
-       "3750                2                   1                10           4445  \n",
-       "4413                2                   2                 3           4405  \n",
-       "\n",
-       "[2200 rows x 8 columns]"
-      ]
-     },
-     "execution_count": 10,
-     "metadata": {},
-     "output_type": "execute_result"
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "(8799, 8)\n",
+      "(2200, 8)\n"
+     ]
     }
    ],
    "source": [
-    "X_test.drop(['Warehouse_block', 'Mode_of_Shipment', 'Gender'], axis=1, inplace=True)\n",
-    "X_test['Product_importance'] = X_test['Product_importance'].replace({'high':3, 'medium':2, 'low':1})\n",
-    "X_test"
+    "print(X_train.shape)\n",
+    "print(X_test.shape)"
    ]
   },
   {
    "cell_type": "markdown",
-   "id": "4d3e43a9",
+   "id": "0778f472",
    "metadata": {
     "papermill": {
-     "duration": 0.023312,
-     "end_time": "2022-05-25T05:59:38.551725",
+     "duration": 0.022698,
+     "end_time": "2022-05-26T05:28:57.783413",
      "exception": false,
-     "start_time": "2022-05-25T05:59:38.528413",
+     "start_time": "2022-05-26T05:28:57.760715",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
-    "### 모델"
+    "### 모델\n",
+    "- X_train, y_train으로 학습 후 X_test 내용에 대한 정답을 y_test에 넣는다!\n",
+    "- X_train, y_train으로 train_test_split에서 교차검증을 바탕으로 하이퍼파리미터 조정해나감"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 11,
-   "id": "3192baa4",
+   "execution_count": 12,
+   "id": "7aa9ed99",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-05-25T05:59:38.599143Z",
-     "iopub.status.busy": "2022-05-25T05:59:38.598423Z",
-     "iopub.status.idle": "2022-05-25T05:59:38.880338Z",
-     "shell.execute_reply": "2022-05-25T05:59:38.879747Z",
-     "shell.execute_reply.started": "2022-05-25T05:47:16.231217Z"
+     "iopub.execute_input": "2022-05-26T05:28:57.832313Z",
+     "iopub.status.busy": "2022-05-26T05:28:57.831705Z",
+     "iopub.status.idle": "2022-05-26T05:28:58.095415Z",
+     "shell.execute_reply": "2022-05-26T05:28:58.095966Z",
+     "shell.execute_reply.started": "2022-05-26T05:25:24.079025Z"
     },
     "papermill": {
-     "duration": 0.306736,
-     "end_time": "2022-05-25T05:59:38.880496",
+     "duration": 0.289841,
+     "end_time": "2022-05-26T05:28:58.096203",
      "exception": false,
-     "start_time": "2022-05-25T05:59:38.573760",
+     "start_time": "2022-05-26T05:28:57.806362",
      "status": "completed"
     },
     "tags": []
@@ -1894,142 +1456,276 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 12,
-   "id": "9b756167",
+   "execution_count": 13,
+   "id": "acf2a93e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-05-25T05:59:38.928217Z",
-     "iopub.status.busy": "2022-05-25T05:59:38.927523Z",
-     "iopub.status.idle": "2022-05-25T05:59:38.930834Z",
-     "shell.execute_reply": "2022-05-25T05:59:38.931352Z",
-     "shell.execute_reply.started": "2022-05-25T05:58:43.721194Z"
+     "iopub.execute_input": "2022-05-26T05:28:58.150280Z",
+     "iopub.status.busy": "2022-05-26T05:28:58.147840Z",
+     "iopub.status.idle": "2022-05-26T05:28:58.154060Z",
+     "shell.execute_reply": "2022-05-26T05:28:58.153547Z",
+     "shell.execute_reply.started": "2022-05-26T05:25:24.355832Z"
     },
     "papermill": {
-     "duration": 0.028765,
-     "end_time": "2022-05-25T05:59:38.931529",
+     "duration": 0.034603,
+     "end_time": "2022-05-26T05:28:58.154231",
      "exception": false,
-     "start_time": "2022-05-25T05:59:38.902764",
+     "start_time": "2022-05-26T05:28:58.119628",
      "status": "completed"
     },
     "tags": []
    },
    "outputs": [],
    "source": [
-    "from sklearn.model_selection import train_test_split\n"
+    "from sklearn.model_selection import train_test_split\n",
+    "\n",
+    "X_tr, X_val, y_tr, y_val = train_test_split(X_train, y_train['Reached.on.Time_Y.N'], test_size=0.3, random_state=60)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "id": "c4ace49b",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-05-26T05:28:58.207540Z",
+     "iopub.status.busy": "2022-05-26T05:28:58.206530Z",
+     "iopub.status.idle": "2022-05-26T05:28:58.311451Z",
+     "shell.execute_reply": "2022-05-26T05:28:58.312460Z",
+     "shell.execute_reply.started": "2022-05-26T05:25:24.366131Z"
+    },
+    "papermill": {
+     "duration": 0.135258,
+     "end_time": "2022-05-26T05:28:58.312722",
+     "exception": false,
+     "start_time": "2022-05-26T05:28:58.177464",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "0.665530303030303"
+      ]
+     },
+     "execution_count": 14,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "lr = LogisticRegression()\n",
+    "lr.fit(X_tr, y_tr)\n",
+    "lr.score(X_val, y_val)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "id": "3e3cee21",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-05-26T05:28:58.407478Z",
+     "iopub.status.busy": "2022-05-26T05:28:58.406410Z",
+     "iopub.status.idle": "2022-05-26T05:28:58.539244Z",
+     "shell.execute_reply": "2022-05-26T05:28:58.538687Z",
+     "shell.execute_reply.started": "2022-05-26T05:27:01.577615Z"
+    },
+    "papermill": {
+     "duration": 0.184008,
+     "end_time": "2022-05-26T05:28:58.539377",
+     "exception": false,
+     "start_time": "2022-05-26T05:28:58.355369",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "0.65"
+      ]
+     },
+     "execution_count": 15,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "knn = KNeighborsClassifier(n_neighbors=11)\n",
+    "knn.fit(X_tr, y_tr)\n",
+    "knn.score(X_val, y_val)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 16,
+   "id": "46678290",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-05-26T05:28:58.592721Z",
+     "iopub.status.busy": "2022-05-26T05:28:58.591780Z",
+     "iopub.status.idle": "2022-05-26T05:29:00.361892Z",
+     "shell.execute_reply": "2022-05-26T05:29:00.361339Z",
+     "shell.execute_reply.started": "2022-05-26T05:25:24.661181Z"
+    },
+    "papermill": {
+     "duration": 1.798868,
+     "end_time": "2022-05-26T05:29:00.362022",
+     "exception": false,
+     "start_time": "2022-05-26T05:28:58.563154",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "0.6829545454545455"
+      ]
+     },
+     "execution_count": 16,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "svc = SVC()\n",
+    "svc.fit(X_tr, y_tr)\n",
+    "svc.score(X_val, y_val)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "id": "fe757fa4",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-05-26T05:29:00.416688Z",
+     "iopub.status.busy": "2022-05-26T05:29:00.415928Z",
+     "iopub.status.idle": "2022-05-26T05:29:00.431385Z",
+     "shell.execute_reply": "2022-05-26T05:29:00.430856Z",
+     "shell.execute_reply.started": "2022-05-26T05:25:39.705579Z"
+    },
+    "papermill": {
+     "duration": 0.045572,
+     "end_time": "2022-05-26T05:29:00.431526",
+     "exception": false,
+     "start_time": "2022-05-26T05:29:00.385954",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "0.6875"
+      ]
+     },
+     "execution_count": 17,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "dt = DecisionTreeClassifier(max_depth=3)\n",
+    "dt.fit(X_tr, y_tr)\n",
+    "dt.score(X_val, y_val)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 18,
+   "id": "338cd825",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-05-26T05:29:00.486694Z",
+     "iopub.status.busy": "2022-05-26T05:29:00.485711Z",
+     "iopub.status.idle": "2022-05-26T05:29:00.860957Z",
+     "shell.execute_reply": "2022-05-26T05:29:00.860451Z",
+     "shell.execute_reply.started": "2022-05-26T05:26:00.562306Z"
+    },
+    "papermill": {
+     "duration": 0.40533,
+     "end_time": "2022-05-26T05:29:00.861105",
+     "exception": false,
+     "start_time": "2022-05-26T05:29:00.455775",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "0.6856060606060606"
+      ]
+     },
+     "execution_count": 18,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "rf = RandomForestClassifier(max_depth=3)\n",
+    "rf.fit(X_tr, y_tr)\n",
+    "rf.score(X_val, y_val)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 19,
+   "id": "7702ef9c",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-05-26T05:29:00.917188Z",
+     "iopub.status.busy": "2022-05-26T05:29:00.916178Z",
+     "iopub.status.idle": "2022-05-26T05:29:01.325576Z",
+     "shell.execute_reply": "2022-05-26T05:29:01.326199Z",
+     "shell.execute_reply.started": "2022-05-26T05:25:27.343447Z"
+    },
+    "papermill": {
+     "duration": 0.440536,
+     "end_time": "2022-05-26T05:29:01.326392",
+     "exception": false,
+     "start_time": "2022-05-26T05:29:00.885856",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "0.6545454545454545"
+      ]
+     },
+     "execution_count": 19,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "xgb = XGBClassifier(eval_metric='mlogloss', use_label_encoder=False)\n",
+    "xgb.fit(X_tr, y_tr)\n",
+    "xgb.score(X_val, y_val)"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "ef772330",
+   "id": "a95821e6",
    "metadata": {
     "papermill": {
-     "duration": 0.021606,
-     "end_time": "2022-05-25T05:59:38.975177",
+     "duration": 0.024514,
+     "end_time": "2022-05-26T05:29:01.377244",
      "exception": false,
-     "start_time": "2022-05-25T05:59:38.953571",
-     "status": "completed"
-    },
-    "tags": []
-   },
-   "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "3ed995db",
-   "metadata": {
-    "papermill": {
-     "duration": 0.021919,
-     "end_time": "2022-05-25T05:59:39.018964",
-     "exception": false,
-     "start_time": "2022-05-25T05:59:38.997045",
-     "status": "completed"
-    },
-    "tags": []
-   },
-   "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "cea2ed6c",
-   "metadata": {
-    "papermill": {
-     "duration": 0.021611,
-     "end_time": "2022-05-25T05:59:39.062851",
-     "exception": false,
-     "start_time": "2022-05-25T05:59:39.041240",
-     "status": "completed"
-    },
-    "tags": []
-   },
-   "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "eeb6bee8",
-   "metadata": {
-    "papermill": {
-     "duration": 0.02201,
-     "end_time": "2022-05-25T05:59:39.107053",
-     "exception": false,
-     "start_time": "2022-05-25T05:59:39.085043",
-     "status": "completed"
-    },
-    "tags": []
-   },
-   "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "e019d2b1",
-   "metadata": {
-    "papermill": {
-     "duration": 0.021842,
-     "end_time": "2022-05-25T05:59:39.151197",
-     "exception": false,
-     "start_time": "2022-05-25T05:59:39.129355",
-     "status": "completed"
-    },
-    "tags": []
-   },
-   "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "239788e3",
-   "metadata": {
-    "papermill": {
-     "duration": 0.021575,
-     "end_time": "2022-05-25T05:59:39.194712",
-     "exception": false,
-     "start_time": "2022-05-25T05:59:39.173137",
-     "status": "completed"
-    },
-    "tags": []
-   },
-   "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "242cacdf",
-   "metadata": {
-    "papermill": {
-     "duration": 0.021595,
-     "end_time": "2022-05-25T05:59:39.239073",
-     "exception": false,
-     "start_time": "2022-05-25T05:59:39.217478",
+     "start_time": "2022-05-26T05:29:01.352730",
      "status": "completed"
     },
     "tags": []
@@ -2058,14 +1754,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 11.560843,
-   "end_time": "2022-05-25T05:59:39.974361",
+   "duration": 14.710272,
+   "end_time": "2022-05-26T05:29:02.938304",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2022-05-25T05:59:28.413518",
+   "start_time": "2022-05-26T05:28:48.228032",
    "version": "2.3.3"
   }
  },
